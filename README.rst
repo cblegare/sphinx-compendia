@@ -39,8 +39,9 @@ Sphinx-Compendia
     :target: https://github.com/psf/black
     :alt: Formatting - Black
 
-|project| is especially useful for documenting **collections**, **compendiums**,
-**catalogs**, **inventories**, **compilations**, **digests** and such.
+**Sphinx-Compendia** is especially useful for documenting **collections**,
+**compendiums**, **catalogs**, **inventories**, **compilations**, **digests**
+and such.
 
 
 ----
@@ -56,3 +57,4 @@ Sphinx-Compendia
 
 .. _Sphinx: https://www.sphinx-doc.org/en/master/index.html
 .. _documentation: https://cblegare.gitlab.io/sphinx-compendia
+.. _domains: https://www.sphinx-doc.org/en/master/usage/restructuredtext/domains.html
