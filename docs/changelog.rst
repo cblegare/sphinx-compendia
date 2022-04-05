@@ -64,7 +64,7 @@ The format is based on `Keep a Changelog`_, and this project will adheres to
 
 .. _release-0.1:
 
-0.1 - unreleased
+0.1 - 2022-04-04
 ================
 
 .. admonition:: Downloads
