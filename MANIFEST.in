@@ -1,0 +1,10 @@
+include README.rst
+include LICENSE
+include CHANGESLOG.rst
+include CONTRIBUTING.rst
+include requirements.in
+
+include src/sphinx_compendia/py.typed
+
+recursive-include src/sphinx_compendia/i18n *.pot *.po *.mo
+recursive-include tests *
