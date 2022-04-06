@@ -46,7 +46,6 @@ and such.
 
 ----
 
-`Read the documentation! <documentation>`_
 
 **Sphinx-Compendia** is
 
